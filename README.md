@@ -4,6 +4,7 @@ yang sudah pro skip saja
 
 penting :
 otp hanya akan sukses terkirim jika user sudah pernah chat ke bot yang digunakan
+
 bot tidak akan bisa chat duluan ke user telegram 
 
 tambahan :
