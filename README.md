@@ -4,7 +4,7 @@ yang sudah pro skip saja
 
 tambahan :
 cara mengetahui id-telegram kita
-chat ke bot https://t.me/RawDataBot atau @RawDataBot
+chat ke bot @myotpx_bot
 seperti gambar
 
-<img src = 'idtele.jpg'>
+<img src = 'idtelex.jpg'>
